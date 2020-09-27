@@ -124,8 +124,8 @@ def build_tree(elements):
 if __name__ == '__main__':
     numbers = [17, 4, 1, 20, 9, 23, 18, 34]
     num_trees = build_tree(numbers)
-    print(num_trees.in_order_traversal())
-    
+    num_trees.delete(20)
+
 
 
 
