@@ -3,3 +3,4 @@
 *.txt
 */.ipynb_checkpoints/*
 *.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/Linked List-checkpoint.ipynb
